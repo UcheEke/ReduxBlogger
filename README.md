@@ -12,4 +12,6 @@ configuring the skeleton script to work with Webpack version 2.
 
 ## Overview
 
-tba
+Based on the project presented in Stephen Grider's 'Modern React with Redux'
+It uses the api at 'reduxblog.herokuapp.com' as the backend to perform CRUD
+
