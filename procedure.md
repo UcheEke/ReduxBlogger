@@ -82,18 +82,17 @@
     npm install --save react react-dom react-redux
     npm install --save redux
     
-## 8. Optional packages
-    
-   #### Middleware to handle promises:
+## 8. Optional packages    
+#### Middleware to handle promises:
     npm install --save redux-promise  
     
-   #### Handy toolbox for common array operations
+#### Handy toolbox for common array operations
     npm install --save lodash
      
-   #### Routing middleware
+#### Routing middleware
     npm install --save react-router
      
-   #### Minimalist AJAX call handler 
+#### Minimalist AJAX call handler 
     npm install --save axios
     
 
